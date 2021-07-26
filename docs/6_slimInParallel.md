@@ -96,7 +96,7 @@ scripts can come in handy. These enable us to use a pre-written script to vary a
 and run many SLiM experiments at once as possible.
 
 As a quick aside, these template scripts I'm providing require a `seeds.csv` file to be in the format of a single column 
-with a header called 'Seed'. My SeedGenerator program which I have provided (Under "Tools" in the [main GitHub branch](https://github.com/nobrien97/PolygenicSLiMBook)), 
+with a header called 'Seed'. My SeedGenerator program which I have provided (as part of the "Tools" section of the [main GitHub branch] (https://github.com/nobrien97/PolygenicSLiMBook/tree/main/src/Tools)), 
 (along with an install script) will generate these for you. To use SeedGenerator, simply run `seedgen_install.sh`, 
 and then `./seedgenerator`. There are a variety of options, listed with the -h or --help flag:
 
